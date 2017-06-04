@@ -104,7 +104,8 @@ ul li a{text-decoration: none;}
 
 @media screen and (max-width: 1221px){
 	.htmleaf-container{display: none;}
-	#dong{text-align: center;}
+	#dong{text-align: center;
+	      padding-top:10px;}
 	#dong img{width: 99%;
 		      max-width: 1210px;
 		      margin: 0px;
