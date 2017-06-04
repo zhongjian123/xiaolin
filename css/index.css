@@ -59,7 +59,7 @@ header img{max-width: 1280px;
      margin: 0px;
      padding: 0px;
      }
-    ul li{float: left;
+    #head ul li{float: left;
       display: none;
       height: 50px;
       width: 100%;
