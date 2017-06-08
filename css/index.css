@@ -178,8 +178,7 @@ ul li a{text-decoration: none;}
 }
 
 #foot{clear: both;
-      width: 100%;
-      height:100px; 
+      width: 100%; 
       background-color: rgb(235,235,235);
       text-align: center;
       line-height: 50px;
