@@ -101,6 +101,12 @@ ul li a{text-decoration: none;}
      position: relative;
      z-index: -1;
      background-color: rgb(50,151,239);}
+@media screen and (max-width: 760px){
+#run{height: 5%;
+     max-height: 40px;
+     font-size: 5vw;
+     line-height: 38px;}
+}
 
 @media screen and (max-width: 1221px){
 	.htmleaf-container{display: none;}
